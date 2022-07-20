@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc59c5e-5be9-4ca1-acae-8e624b744c18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/task-1-1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-1-1/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="4fc59c5e-5be9-4ca1-acae-8e624b744c18" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="'main'" />
+        <entry key="$PROJECT_DIR$" value="task-1-1-&amp;-1-2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/task-1-1" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -61,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658312575093</updated>
       <workItem from="1658312576646" duration="364000" />
+      <workItem from="1658312984455" duration="470000" />
     </task>
     <servers />
   </component>
@@ -77,5 +76,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
