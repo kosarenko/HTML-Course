@@ -43,12 +43,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/task-1-1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task-1-2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Homeworks\HTML-course\task-1-2" />
       <recent name="D:\Homeworks\HTML-course\task-1-1" />
     </key>
   </component>
@@ -61,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658312575093</updated>
       <workItem from="1658312576646" duration="364000" />
-      <workItem from="1658312984455" duration="1322000" />
+      <workItem from="1658312984455" duration="1807000" />
     </task>
     <servers />
   </component>
@@ -79,5 +80,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1658314301838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1658314301838" />
   </component>
 </project>
