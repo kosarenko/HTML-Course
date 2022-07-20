@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc59c5e-5be9-4ca1-acae-8e624b744c18" name="Default Changelist" comment="" />
+    <list default="true" id="4fc59c5e-5be9-4ca1-acae-8e624b744c18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task-1-1-&amp;-1-2" />
+        <entry key="$PROJECT_DIR$" value="task_first" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658312575093</updated>
       <workItem from="1658312576646" duration="364000" />
-      <workItem from="1658312984455" duration="470000" />
+      <workItem from="1658312984455" duration="1322000" />
     </task>
     <servers />
   </component>
