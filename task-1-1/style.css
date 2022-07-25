@@ -4,7 +4,6 @@
     justify-content: center;
 }
 .all-page{
-    /*display: flex;*/
     display:block;
     flex-direction: column;
     background-color: lightgray;
@@ -12,21 +11,18 @@
     max-width: 990px;
 }
 .head{
-    /*width: 200px;*/
     font-size:80px;
     padding-top: 40px;
 }
 .description{
     font-size: 25px;
     border-radius: 2px;
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-top: 10px;
-    margin-bottom: 15px;
-    border: darkgray 1px solid;
+    margin: 10px 25px 15px;
+    border: 1px solid darkgray;
+
 }
 img{
-    border-radius: 720px;
+    border-radius: 50%;
     padding-top: 5px;
 }
 .description-image{
@@ -34,16 +30,12 @@ img{
     height: 30px;
     background-color: darkgrey;
     font-weight: bold;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin: 0 5px 5px 5px;
+
 }
 .picture{
     border: darkgray 1px solid;
-    margin-left: 25px;
-    margin-right: 25px;
-    margin-top: 10px;
-    margin-bottom: 0px;
+    margin: 10px 25px 0;
 }
 .dates{
     text-align: left;
