@@ -1,0 +1,57 @@
+.header{
+    font-size: 30px;
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+background-color: mediumblue;
+    width: 100%;
+}
+.container{
+    display: flex;
+}
+
+@media only screen and (max-width: 998px) {
+    .container{
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .FirstColumn, .ThirdColumn {
+        height: 50px;
+    }
+}
+
+.FirstColumn, .ThirdColumn {
+    min-width: 15%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.columns{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.AllPage{
+    height:900px;
+    width: 100%;
+    background-color: lightgray;
+    display: grid;
+    grid-template-rows: 1fr 8fr 1fr;
+}
+.FirstColumn{
+    background-color: yellow;
+
+}
+.ThirdColumn{
+    background-color: purple;
+}
+.footer{
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.SecondColumn{
+    text-align: center;
+    background-color: white;
+    min-width: 70%;
+}

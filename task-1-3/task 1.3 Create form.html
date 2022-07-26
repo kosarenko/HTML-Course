@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="task%201.3%20Create%20form.css">
+</head>
+<body>
+<div class="AllPage">
+    <div class="registration-page">
+        <div class="header">
+            <p>Create Account</p>
+
+        </div>
+        <div class="registration-form">
+            <form>
+                <label for="FirstName">First name*</label>
+                <label for="LastName">Last name</label>
+                <br/>
+                <input class="firstName" type="text" id="FirstName" name="Firstname" value="" required pattern="[a-z]\gi*">
+                <input class="lastName" type="text" id="LastName" name="Lastname" value="" required pattern="[a-z]\gi*">
+                <br/>
+                <label for="email">Email*</label>
+                <br/>
+                <input class="email" type="text" id="email" name="email" value="" required pattern="[-.\w]+@([\w-]+\.)+[\w-]\g">
+                <br/>
+                <label for="Password">Password*</label>
+                <label for="ConfirmPassword">Confirm Password</label>
+                <br/>
+                <input class="password" type="text" id="password" name="Password" value="" required pattern="[a-z]\gi*">
+                <input class="confirmpassword" type="text" id="ConfirmPassword" name="Confirm Password" value="" required pattern="[a-z]\gi*">
+                <br/>
+                <span>Gender</span>
+                <span>Hobbies</span>
+                <br/>
+                <input type="radio" name="Gender" value="Gender"/>
+                <label>Male</label>
+                <input type="radio" name="Gender" value="Gender"/>
+                <label>Female</label>
+
+                <input type="checkbox" checked name="Music">
+                <label>Music</label>
+                <input type="checkbox" checked name="Sports">
+                <label>Sports</label>
+                <input type="checkbox" checked name="Travel">
+                <label>Travel</label>
+                <input type="checkbox" checked name="Movies">
+                <label>Movies</label>
+                <br/>
+                <label for="sourceOfIncome">Source of income </label>
+                <label for="slider">Income</label>
+                <br/>
+                <select id="sourceOfIncome" class="sourceOfIncome" name="SourceOfIncome">
+                    <option value="employed">employed</option>
+                    <option value="Not employed">not employed</option>
+                </select>
+
+                <input class="slider" type="range" step="10" min="0" max="500" id="slider" name="slider"/>
+                <br/>
+                <label for="uploader">Upload Profile Picture</label>
+                <label for="age">Age</label>
+                <br/>
+                <input class="uploader" type="file" id="uploader" name="uploader"/>
+                <input class="age" type="text" id="age"/>
+                <br/>
+                <label for="bio">Bio</label>
+                <br/>
+                <input class="bio" type="text" id="bio"/>
+
+
+
+            </form>
+        </div>
+        <div class="footer">
+            <p><input type="submit" value="Create"/></p>
+
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
